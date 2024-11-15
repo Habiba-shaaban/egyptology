@@ -1,0 +1,6 @@
+cd /path
+git init --> لو مكنش اترفع قببل كده 
+git add .
+git commit -m "your commit"
+git branch -M main
+git push -u origin main
